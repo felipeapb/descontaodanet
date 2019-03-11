@@ -1,0 +1,20 @@
+.body_site{
+  background: #EAB622;
+  margin: 0;
+  padding: 15px;
+}
+.bg_white{
+  background: #fff;
+   
+}
+ h1, h2{
+  color:#fc0 !important;
+}
+.card .pic-size{
+  width: 100px;
+  margin: 10px calc( 50% - 50px);
+}
+.mostraProduto{  margin-bottom: 20px}
+
+.card{ margin: 20PX 0; padding: 10px}
+.price{ font-weight: 700; color:red}
